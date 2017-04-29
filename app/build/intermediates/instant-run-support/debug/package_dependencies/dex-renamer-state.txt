@@ -1,0 +1,4 @@
+#Sat Apr 29 22:32:41 IST 2017
+base.0=C\:\\Users\\Deepak\\AndroidStudioProjects\\WifiDirectDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_6fc443b1b42aeb9c7a28a8e2478094622acef41e
+renamed.0=classes.dex
+file.0=C\:\\Users\\Deepak\\AndroidStudioProjects\\WifiDirectDemo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_6fc443b1b42aeb9c7a28a8e2478094622acef41e\\classes.dex

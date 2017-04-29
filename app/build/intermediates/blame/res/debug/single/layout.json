@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Deepak\\AndroidStudioProjects\\WifiDirectDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video.xml",
+        "source": "C:\\Users\\Deepak\\AndroidStudioProjects\\WifiDirectDemo2\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Deepak\\AndroidStudioProjects\\WifiDirectDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_view.xml",
+        "source": "C:\\Users\\Deepak\\AndroidStudioProjects\\WifiDirectDemo2\\app\\src\\main\\res\\layout\\list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Deepak\\AndroidStudioProjects\\WifiDirectDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "C:\\Users\\Deepak\\AndroidStudioProjects\\WifiDirectDemo2\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Deepak\\AndroidStudioProjects\\WifiDirectDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_devices.xml",
+        "source": "C:\\Users\\Deepak\\AndroidStudioProjects\\WifiDirectDemo2\\app\\src\\main\\res\\layout\\row_devices.xml"
+    },
+    {
+        "merged": "C:\\Users\\Deepak\\AndroidStudioProjects\\WifiDirectDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Deepak\\AndroidStudioProjects\\WifiDirectDemo2\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Deepak\\AndroidStudioProjects\\WifiDirectDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playlist.xml",
+        "source": "C:\\Users\\Deepak\\AndroidStudioProjects\\WifiDirectDemo2\\app\\src\\main\\res\\layout\\playlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Deepak\\AndroidStudioProjects\\WifiDirectDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\videoplay.xml",
+        "source": "C:\\Users\\Deepak\\AndroidStudioProjects\\WifiDirectDemo2\\app\\src\\main\\res\\layout\\videoplay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Deepak\\AndroidStudioProjects\\WifiDirectDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_detail.xml",
+        "source": "C:\\Users\\Deepak\\AndroidStudioProjects\\WifiDirectDemo2\\app\\src\\main\\res\\layout\\device_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Deepak\\AndroidStudioProjects\\WifiDirectDemo2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "C:\\Users\\Deepak\\AndroidStudioProjects\\WifiDirectDemo2\\app\\src\\main\\res\\layout\\home.xml"
+    }
+]
